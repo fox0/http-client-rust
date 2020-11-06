@@ -1,4 +1,5 @@
 mod panic;
+mod tests;
 
 use reqwest::blocking::Client;
 use reqwest::StatusCode;
